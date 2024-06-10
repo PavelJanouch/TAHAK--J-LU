@@ -1,0 +1,22 @@
+# Seznam Knih
+
+- **BABIČKA** - Božena Němcová
+- **CIZINEC** - Albert Camus
+- **HOBIT** - J.R.R. Tolkien
+- **KYTICE** - Karel Jaromír Erben
+- **LAKOMEC** - Molière
+- **MÁJ** - Karel Hynek Mácha
+- **NA ZÁPADNÍ FRONTĚ KLID** - Erich Maria Remarque
+- **O DĚTECH, VÍNĚ, ŠVESTKÁCH Z SVATOJÁNEK** - Ivan Olbracht
+- **OLIVER TWIST** - Charles Dickens
+- **PROCES** - Franz Kafka
+- **PROMĚNA** - Franz Kafka
+- **PÁN MUCH** - William Golding
+- **PÁN PRSTENŮ** - J.R.R. Tolkien
+- **PÝCHA A PŘEDSUDEK** - Jane Austenová
+- **ROMEO A JULIE** - William Shakespeare
+- **TYROLSKÉ ELEGIE** - Karel Havlíček Borovský
+- **VIŠŇOVÝ SAD** - Anton Pavlovič Čechov
+- **VOJNA A MÍR** - Lev Nikolajevič Tolstoj
+- **VÁLKA S MLOKY** - Karel Čapek
+- **ZLOČIN A TREST** - Fjodor Michajlovič Dostojevskij
